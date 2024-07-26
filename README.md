@@ -47,7 +47,7 @@ Develop a chat interface that leverages a Large Language Model (LLM) to read and
 
 ![image](https://github.com/user-attachments/assets/d0ef2f49-6782-42e8-ac8b-2f970d02883f)
 
-## Efficiency Matrix 📈
+## Efficiency Matrix ( Scalability and Performance) 📈
 
 - **Query Accuracy**: 95% accuracy in initial testing. ✅
 - **Response Time**: Average response time for query generation is 2.3 seconds. ⏱️
